@@ -1,1 +1,3 @@
-WELCOME
+
+
+print('Welcome to guthub tutorial')
